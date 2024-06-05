@@ -1,0 +1,101 @@
+body {
+    background-color: #fff;
+}
+
+.phone{
+    margin-top: 60px;
+    margin-left: 360px;
+}
+
+.container {
+    width: 340px;
+    border-radius: 2px;
+    margin-left: 900px;
+    margin-top: -610px;
+    padding: 13px;
+    box-shadow: none;
+    border: 1px solid lightgray;
+    background-color: #fff;
+    box-shadow: 1px 1px 1px 1px lightgrey;
+}
+
+.legend{
+    text-align: center;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.login {
+    color: #fff;
+    font-weight: 900;
+    font-size: 15px;
+    background-color: #0866ff;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.loginwithfb {
+    color: #385185;
+    text-decoration: none;
+    text-align: center;
+}
+
+.forget {
+    text-decoration: none;
+    color: #005db2;
+    font-size: medium;
+    text-align: center;
+}
+
+.input {
+    margin-left: 15px;
+    width: 320px;
+    border: 1px solid lightgray;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #fafafa;
+}
+
+.login {
+    margin-left: 15px;
+    width: 320px;
+    border: 1px solid lightgray;
+    padding: 9px;
+    border-radius: 15px;
+    background-color: #4cB5F9;
+}
+
+.downbox {
+    margin-left: 900px;
+    margin-top: 12px;
+    width: 340px;
+    border: 1px solid lightgrey;
+    background-color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.anchor {
+    color: #0095F6;
+    text-decoration: none;
+}
+
+.lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-align: center;
+}
+
+.belowdownbox{
+    margin-left: 1050;
+}
+
+.images{
+    margin-left: 920;
+}
